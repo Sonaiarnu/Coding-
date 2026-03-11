@@ -5,7 +5,7 @@ Only the *order of questions is arranged logically* for better readability.
 
 ---
 
-# 🔹 Core Definitions (important questions)
+# 🔹 Core Definitions (*important questions*)
 
 ## **What Does In-Place Mean? (Interview Answer)**
 “In-place means the algorithm does not need extra memory proportional to the input size.  
